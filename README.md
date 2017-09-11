@@ -8,7 +8,7 @@ Current secure cryptography command: random.SystemRandom().choice(string.ascii_u
 
 ## Motivation
 
-At the moment IOTA lacks an official tool for creating seeds for personal use. In the mean time, seeds generated through Python are secure and simplly done.
+At the moment IOTA lacks an official tool for creating seeds for personal use. In the mean time, seeds generated through Python are secure and simply done.
 
 ## Installation
 
@@ -16,4 +16,4 @@ If you do not have Python installed on your system, you can use the executables 
 
 ## License
 
-Free to use and modify
+Free to use and modify.
